@@ -1,4 +1,4 @@
-"""
+
 #ask for the name
 name = input("What is your name? ")
 
@@ -23,7 +23,6 @@ print(age + 10)
 #Calculates how old they are by subtracting their birth year from 2026
 #Prints a sentence like: Liam, you are 28 years old.
 
-"""
 
 
 #ask for the name
