@@ -38,4 +38,3 @@ def is_even (value):
 print (is_even(number))
 
 
-

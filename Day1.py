@@ -1,3 +1,5 @@
+print("Hello, World! My Python journey starts today.")
+
 name = "Liam"
 age = 28
 job_title = "AI&Data Consultant"
