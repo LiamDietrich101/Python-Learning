@@ -42,7 +42,7 @@ except ValueError:
     print("That wasn't a valid number!")
 '''
 
-#Challenge 3 — Password Checker
+#CHALLENGE 3 — Password Checker
 # Write a function called password_checker that takes a password as a parameter,
 # call it user_input inside the function to keep the boundary clear, and returns:
 # "Too short" if the password is less than 8 characters
